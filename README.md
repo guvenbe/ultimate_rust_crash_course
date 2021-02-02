@@ -105,5 +105,6 @@ For your convenience, here is a list of all the exercises, with links to view th
 - [functions]: https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
 - [modules]: https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
 - [scalar types]: https://doc.rust-lang.org/book/ch03-02-data-types.html
+- [data types]: https://doc.rust-lang.org/book/ch03-02-data-types.html
 
 

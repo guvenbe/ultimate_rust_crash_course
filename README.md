@@ -95,3 +95,11 @@ For your convenience, here is a list of all the exercises, with links to view th
 [exercises]: https://github.com/CleanCut/ultimate_rust_crash_course#exercises
 [open an issue]: https://github.com/CleanCut/ultimate_rust_crash_course/issues/new
 [Ultimate Rust Crash Course]: https://agileperception.com/ultimate_rust_crash_course
+
+# Document
+- [Cargo]: https://doc.rust-lang.org/cargo/index.html
+- [Cargo]: https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
+- [Rust]: https://doc.rust-lang.org/book/
+- [variables]: https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+- [mutability]: https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+- [functions]: https://doc.rust-lang.org/book/ch03-03-how-functions-work.html

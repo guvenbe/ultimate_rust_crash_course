@@ -106,5 +106,7 @@ For your convenience, here is a list of all the exercises, with links to view th
 - [modules]: https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
 - [scalar types]: https://doc.rust-lang.org/book/ch03-02-data-types.html
 - [data types]: https://doc.rust-lang.org/book/ch03-02-data-types.html
+- [control flow]: https://doc.rust-lang.org/book/ch03-05-control-flow.html
+- [strings]: https://doc.rust-lang.org/book/ch08-02-strings.html
 
 

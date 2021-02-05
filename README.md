@@ -108,5 +108,10 @@ For your convenience, here is a list of all the exercises, with links to view th
 - [data types]: https://doc.rust-lang.org/book/ch03-02-data-types.html
 - [control flow]: https://doc.rust-lang.org/book/ch03-05-control-flow.html
 - [strings]: https://doc.rust-lang.org/book/ch08-02-strings.html
+- [ownership]: https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html
+- [references & borrowing]: https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
+- [structs]: https://doc.rust-lang.org/book/ch05-00-structs.html
+- [traits]: https://doc.rust-lang.org/book/ch10-02-traits.html
+
 
 

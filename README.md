@@ -112,6 +112,9 @@ For your convenience, here is a list of all the exercises, with links to view th
 - [references & borrowing]: https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
 - [structs]: https://doc.rust-lang.org/book/ch05-00-structs.html
 - [traits]: https://doc.rust-lang.org/book/ch10-02-traits.html
+- [collections]: https://doc.rust-lang.org/book/ch08-00-common-collections.html
+- [enums]: https://doc.rust-lang.org/book/ch06-00-enums.html
+- [closures-Functional Features]: https://doc.rust-lang.org/book/ch13-00-functional-features.html
 
 
 
